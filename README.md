@@ -1,14 +1,14 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A basic todo tracking application, used to learn JavaScript and object oriented programming.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+This program allows the user to track a list of items todo, and includes the ability to add dates and descriptions of the item.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+Uses a basic HTML and CSS interface, combined with JavaScript to allow for a smooth experience.
 
 ## Deployment
 
